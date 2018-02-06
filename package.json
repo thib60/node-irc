@@ -1,0 +1,29 @@
+{
+  "name": "irc_server",
+  "version": "1.0.0",
+  "description": "simple serveur irc utilisant express et mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "irc",
+    "node",
+    "express",
+    "mongo",
+    "mongoose",
+    "es2015",
+    "import",
+    "server"
+  ],
+  "author": "thibault salaun",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.3"
+  }
+}
